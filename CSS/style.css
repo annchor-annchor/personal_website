@@ -1,0 +1,13 @@
+body {
+	background-color: #f6f5f5;
+	font-family: "Roboto";
+}
+hr {
+	background-color: transparent;
+	border-style: dashed none none none;
+	border-color: #ffc478;
+	border-width: 8px;
+}
+h1, h3 {
+	font-family: "Patrick Hand";
+}
